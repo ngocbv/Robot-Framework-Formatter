@@ -1,0 +1,7 @@
+content robotframeworkformatter chrome/content/
+
+#locale robotframeworkformatter en-US chrome/locale/en-US/
+#locale robotframeworkformatter fr-FR chrome/locale/fr-FR/
+
+# Custom format
+overlay chrome://selenium-ide/content/selenium-ide-overlay.xul chrome://robotframeworkformatter/content/formats/robotframeworkformatter-loader.xul
