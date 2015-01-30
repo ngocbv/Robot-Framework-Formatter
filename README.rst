@@ -14,7 +14,7 @@ User Guide:
 2. Record by Selenium IDE
 
 3. Export to Robot Framework format
-  File -> Export Test Case As... -> Robot Framework formatter 
+      File -> Export Test Case As... -> Robot Framework formatter 
 
 4. Copy file seleniumLibrary.txt into the same directory with file exported.
 
