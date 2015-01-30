@@ -9,9 +9,13 @@ These are common keywords to run Robot Framework, you can write some keywords to
 
 User Guide:
 
-1. Export to Robot Framework format
+1. Install Selenium IDE: RobotFramework Formatter
 
+2. Record by Selenium IDE
 
-2. Copy file seleniumLibrary.txt into the same directory with file exported.
+3. Export to Robot Framework format
+  File -> Export Test Case As... -> Robot Framework formatter 
 
-3. Run
+4. Copy file seleniumLibrary.txt into the same directory with file exported.
+
+5. Run by Robot Framework IDE (RIDE)
