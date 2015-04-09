@@ -4,7 +4,7 @@
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>robotframeworkformatter@robotframework.com</em:id>
 		<em:name>Selenium RobotFramework Formatter</em:name>
-		<em:version>1.0.0</em:version>
+		<em:version>1.0.1</em:version>
 		<em:creator>Bach Van Ngoc</em:creator>
 		<em:description>A Selenium-IDE Formatter for Robot Framework</em:description>
 		<em:type>2</em:type>
