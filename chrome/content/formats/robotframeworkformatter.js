@@ -158,7 +158,7 @@ options.header =
     '*** Settings ***\n' +
     'Suite Setup    Open Browser    ${baseURL}    ${environment}\n' +
     'Suite Teardown    Close Browser\n'+
-    'Resource    seleniumLibrary.txt\n\n'+
+    'Resource    seleniumLibrary.robot\n\n'+
     '*** Variables ***\n' +
     '${${homepage}}' + '    ${baseURL}\n\n'+
     '*** Test Cases ***\n';
