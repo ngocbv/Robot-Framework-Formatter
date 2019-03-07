@@ -1,8 +1,12 @@
+# Firefox addon
+ https://addons.mozilla.org/en-US/firefox/addon/selenium-robotframework-format/
+Newest update: Currently this addon is invalid because new version of Firefox
+
 # Robot-Framework-Formatter
 Source code Selenium IDE: Robot Framework Formatter
 
 seleniumLibrary.robot:
-https://github.com/NeverSmileK57CLC/Robot-Framework-Formatter/blob/master/resources/seleniumLibrary.robot
+https://github.com/ngocbv/Robot-Framework-Formatter/blob/master/resources/seleniumLibrary.robot
 
 These are common keywords to run Robot Framework, you can write some keywords to improve this.
 
